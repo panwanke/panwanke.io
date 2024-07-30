@@ -1,3 +1,3 @@
-# Asynchro-Epool.github.io
+# panwanke.github.io
 Private blog
-https://asynchro-epool.github.io/Epool.io/
+https://panwanke.github.io/
